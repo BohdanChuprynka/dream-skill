@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **This repo has moved.** `dream-skill` is now maintained inside the [`skills` monorepo](https://github.com/BohdanChuprynka/skills/tree/main/dream-skill) alongside my other Claude Code skills. Full git history was preserved via `git subtree`. This repository is archived and read-only.
+
 <div align="center">
 
 <h1>dream-skill</h1>
